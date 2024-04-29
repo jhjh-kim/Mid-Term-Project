@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+title: Multi-core Round-Robin Simulator
+date: 2024-04-29
+img: chart.png
 alt: image-alt
-project-date: April 2014
-category: Start Bootstrap
-skills: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2024
+category: Operating System
+skills: Multi-threading, data visualization, cpu scheduling, lock
+description: I have created a cpu scheduling simulator program in multi-core system. Each core simulates scheduling in separate threads of the program. I have implemented round robin cpu scheduling algorithm, cpu time clock for synchronization, and visualization of cpu scheduling process using pyplot.
 ---
