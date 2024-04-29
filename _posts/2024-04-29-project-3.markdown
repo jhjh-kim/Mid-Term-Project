@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-title: CS229 Machine Learning Study Group
+title: Unix Shell
 date: 2024-04-29
-img: cs229_studygroup.png
+img: myshell.png
 alt: image-alt
-project-date: February 2024 ~ May 2024
-category: machine learning
-skills: linear algebra, calculus, probability and statistics, machine learning
-description: I have organized a study group focused on the mathematical underpinnings of machine learning. We studied using the CS229 lecture videos from Stanford University. Feel free to take a look at the study agendas that has guided our sessions.
+project-date: November 2023
+category: Operating System
+skills: signal handling, job control, process management, redirection, unix
+description: I have built a Unix shell capable of executing internal/external commands, handling signals, managing jobs, etc., based on Carnegie Mellon University's shell assignment instructions. <br> <a href="https://github.com/jhjh-kim/unix-shell">Code</a>
 ---
