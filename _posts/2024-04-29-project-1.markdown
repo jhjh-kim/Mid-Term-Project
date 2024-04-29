@@ -8,5 +8,5 @@ alt: image-alt
 project-date: February 2024 ~ May 2024
 category: machine learning
 skills: linear algebra, calculus, probability and statistics, machine learning
-description: I have organized a study group focused on the mathematical underpinnings of machine learning. We studied using the CS229 lecture videos from Stanford University. Feel free to take a look at the study agenda that has guided our sessions. <a href="https://www.notion.so/Agenda-33b685df509e413db3d0986bcd122498">Study Agenda</a>
+description: I have organized a study group focused on the mathematical underpinnings of machine learning. We studied using the CS229 lecture videos from Stanford University. Feel free to take a look at the study agenda that has guided our sessions. <br> <a href="https://www.notion.so/Agenda-33b685df509e413db3d0986bcd122498">Study Agenda</a>
 ---
