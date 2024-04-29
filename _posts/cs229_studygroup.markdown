@@ -8,6 +8,6 @@ alt: image-alt
 project-date: February 2024 ~ May 2024
 category: machine learning
 skills: linear algebra, calculus, probability and statistics, machine learning
-description: I have organized a machine learning study group and studied mathematical foundation of machine learning. We have studied using cs229 lecture videos of Stanford University. You can check study agenda we used in our study group. <br></br>
-	[Link Text](https://www.notion.so/Agenda-33b685df509e413db3d0986bcd122498?pvs=4 "Study Agenda")
+description: I have organized a machine learning study group and studied mathematical foundation of machine learning. We have studied using cs229 lecture videos of Stanford University. You can check study agenda we used in our study group.
+	
 ---
