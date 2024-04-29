@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+title: Object Detection for Long Tail Distribution
+date: 2024-04-29
+img: longtail.png
+alt: image-alt
+project-date: March 2024 ~ Current
+category: Computer Vision
+skills: deep learning, pytorch, LaTeX, linux
+description: I am solving long tail problem in object detection under the supervision of Dr. Hansol Kim.
+---
